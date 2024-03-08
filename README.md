@@ -23,6 +23,10 @@ To run the app on your local machine, follow these steps:
 5. Connect a device or start an emulator.
 6. Run `flutter run` to start the app.
 
+## NOTE
+
+Also you can download and install using the apk from the folder called release apk
+
 ## Dependencies
 
 This project uses the following dependencies:
@@ -40,5 +44,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
+
+
 
 
